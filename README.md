@@ -1,3 +1,1 @@
-# Testing
-
-my first git commit. 123
+This is a README file created from R Studio
